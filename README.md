@@ -4,7 +4,7 @@ commands
 
 - npm init
 - npm install --save express expresshandlebars mysql bodyparser
-- npm --save-dev nodemon
+- npm install --save-dev nodemon
 ----------------------------------
 
 # Start your aplication
